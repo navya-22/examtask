@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "112280073389",
+    "project_id": "examtask-9c963",
+    "storage_bucket": "examtask-9c963.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:112280073389:android:919dc5426da092d7990224",
+        "android_client_info": {
+          "package_name": "com.example.examtask"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbVQILu54FA6lvA71U_H6JK3x-0TkVddg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
